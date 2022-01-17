@@ -72,12 +72,6 @@ input, select, textarea {
 	appearance: none;
 }
 
-/* Profp */
-
-#profp {
-	border-radius: 50%;
-}
-
 /* Basic */
 
 	@-ms-viewport {
@@ -1532,7 +1526,7 @@ input, select, textarea {
 		-ms-flex-direction: column;
 		flex-direction: column;
 		position: relative;
-		max-width: 5%;
+		max-width: 100%;
 		z-index: 3;
 	}
 

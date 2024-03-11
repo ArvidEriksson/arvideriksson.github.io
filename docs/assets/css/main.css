@@ -531,7 +531,7 @@ input, select, textarea {
 		/* add border */
 		border: 1px  solid rgba(7, 7, 7, 0.3);
 		/* add padding relative to screen size */
-		padding: 2vw;
+		padding: 3.5em;
 		/* add background color that does not overwrite */
 		background-color: rgba(255, 64, 125, 0.5);
 		/* add box shadow with radius */

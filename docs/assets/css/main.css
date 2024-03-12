@@ -77,7 +77,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: rgb(255, 202, 212);
+		background: rgb(64, 103, 158);
 		overflow: hidden;
 	}
 
@@ -93,7 +93,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: rgb(27, 60, 115);
+		color: rgb(255, 202, 212);
 		/* font-family: 'Source Sans Pro', sans-serif; */
 		font-family: Ubuntu, monospace;
 
@@ -109,7 +109,7 @@ input, select, textarea {
 		-ms-transition: border-color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: rgb(27, 60, 115);
+		color: rgb(255, 202, 212);
 		outline: 0;
 		text-decoration: none;
 	}
@@ -222,7 +222,7 @@ input, select, textarea {
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: rgb(255, 202, 212) bottom left;
+		background: rgb(64, 103, 158) bottom left;
 		height: 100%;
 		left: 0;
 		opacity: 1;
@@ -533,7 +533,7 @@ input, select, textarea {
 		/* add padding relative to screen size */
 		padding: 3.5em;
 		/* add background color that does not overwrite */
-		background-color: rgba(255, 64, 125, 0.5);
+		background-color: rgb(27, 60, 115);
 		/* add box shadow with radius */
 		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 		/* add border radius */
@@ -684,7 +684,7 @@ input, select, textarea {
 					-ms-transition: all 0.2s ease-in-out;
 					transition: all 0.2s ease-in-out;
 					border-radius: 100%;
-					border: solid 1px rgb(27, 60, 115);
+					border: solid 1px rgb(255, 202, 212);
 					display: block;
 					font-size: 1.75em;
 					height: 2.5em;
@@ -701,8 +701,8 @@ input, select, textarea {
 
 					#header nav a:hover:before {
 						background-color: rgba(255, 255, 255, 0.175);
-						color: #40679E;
-						border-color: #40679E;
+						color: #FF407D;
+						border-color: #FF407D;
 					}
 
 				#header nav a:active {
@@ -712,8 +712,8 @@ input, select, textarea {
 
 					#header nav a:active:before {
 						background-color: rgba(255, 255, 255, 0.35);
-						color: #40679E;
-						border-color: #40679E;
+						color: #FF407D;
+						border-color: #FF407D;
 					}
 
 				#header nav a span {
